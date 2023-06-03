@@ -13,7 +13,6 @@
   <b>🔭 I’m currently learning Web Development using React-TypeScript-Tailwind</b><br/><br/>
   <b>👨‍💻 All of my projects are available at [https://github.com/notnayan?tab=repositories]</b><br/><br/>
   <b>📝 I sometimes write articles on [https://nayanrajkhanal.wordpress.com]</b><br/><br/>
-  <b>📫 To reach me: nayanrajkhanalz@gmail.com</b><br/><br/>
   <b>⚡ Joke? Why did the programmer quit his job? Because he didn't get arrays!</b>
 </p>
 
