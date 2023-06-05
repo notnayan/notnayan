@@ -22,6 +22,7 @@
 <a href="https://github.com/notnayan" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/11023/11023043.png" alt="notnayan" height="50" width="50" /></a>
 <a href="https://fb.com/notnayan" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/11023/11023391.png" alt="notnayan" height="50" width="50" /></a>
 <a href="https://instagram.com/nayan_raj_khanal" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/11023/11023406.png" alt="nayan_raj_khanal" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/notnayan" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/11023/11023054.png" alt="notnayan" height="50" width="50" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
