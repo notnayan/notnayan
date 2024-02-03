@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <b>🔭 I’m currently working on Flask project</b><br/><br/>
-  <b>👨‍💻 All of my projects are available at [https://github.com/notnayan?tab=repositories]</b><br/><br/>
-  <b>📝 I sometimes write articles on [https://nayanrajkhanal.wordpress.com]</b><br/><br/>
-  <b>⚡ Joke? Why did the programmer quit his job? Because he didn't get arrays!</b>
+  <b>🔭 I’m currently working on Flutter project</b><br/><br/>
+  <b>👨‍💻 All of my projects are available at <a href="https://github.com/notnayan?tab=repositories" target="_blank">REPOSITORY</a></b><br/><br/>
+  <b>📝 I sometimes write articles on <a href="https://nayanrajkhanal.wordpress.com" target="_blank">WORDPRESS</a></b><br/>
 </p>
 
 <h2 align="center">Connect with me:</h2>
