@@ -22,57 +22,7 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=notnayan&theme=tokyonight&hide_border=false"
     alt="GitHub Streak"
-    style="width: 49%;"
   />
-</p>
-
-<h2 align="center">🌐 Socials:</h2>
-<p align="center">
-  <a href="https://twitter.com/sapupuas" target="_blank">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/11023/11023504.png"
-      alt="sapupuas"
-      height="50"
-      width="50"
-    />
-  </a>
-  <a href="https://github.com/notnayan" target="_blank">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/11023/11023043.png"
-      alt="notnayan"
-      height="50"
-      width="50"
-    />
-  </a>
-  <a href="https://fb.com/notnayan" target="_blank">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/11023/11023391.png"
-      alt="notnayan"
-      height="50"
-      width="50"
-    />
-  </a>
-  <a href="https://instagram.com/nayan_raj_khanal" target="_blank">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/11023/11023406.png"
-      alt="nayan_raj_khanal"
-      height="50"
-      width="50"
-    />
-  </a>
-  <a href="https://linkedin.com/in/notnayan" target="_blank">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/11023/11023054.png"
-      alt="notnayan"
-      height="50"
-      width="50"
-    />
-  </a>
 </p>
 
 <h2 align="center">💻 Tech Stack:</h2>
@@ -182,3 +132,61 @@
     />
   </a>
 </p>
+
+<h2 align="center">🌐 Socials:</h2>
+<p align="center">
+  <a href="https://twitter.com/sapupuas" target="_blank">
+    <img
+      align="center"
+      src="https://cdn-icons-png.flaticon.com/512/11023/11023504.png"
+      alt="sapupuas"
+      height="50"
+      width="50"
+    />
+  </a>
+  <a href="https://github.com/notnayan" target="_blank">
+    <img
+      align="center"
+      src="https://cdn-icons-png.flaticon.com/512/11023/11023043.png"
+      alt="notnayan"
+      height="50"
+      width="50"
+    />
+  </a>
+  <a href="https://fb.com/notnayan" target="_blank">
+    <img
+      align="center"
+      src="https://cdn-icons-png.flaticon.com/512/11023/11023391.png"
+      alt="notnayan"
+      height="50"
+      width="50"
+    />
+  </a>
+  <a href="https://instagram.com/nayan_raj_khanal" target="_blank">
+    <img
+      align="center"
+      src="https://cdn-icons-png.flaticon.com/512/11023/11023406.png"
+      alt="nayan_raj_khanal"
+      height="50"
+      width="50"
+    />
+  </a>
+  <a href="https://linkedin.com/in/notnayan" target="_blank">
+    <img
+      align="center"
+      src="https://cdn-icons-png.flaticon.com/512/11023/11023054.png"
+      alt="notnayan"
+      height="50"
+      width="50"
+    />
+  </a>
+</p>
+
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notnayan/notnayan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notnayan/notnayan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/notnayan/notnayan/output/github-snake.svg" />
+</picture>
+</div>
+
