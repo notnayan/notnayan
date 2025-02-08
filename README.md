@@ -1,8 +1,8 @@
-<h1 align="center">Heyyy✌it's Nayan</h1>
+<h1 align="center">Heyyy 👊 it's Nayan</h1>
 
-<h3 align="center">💫 About Me:</h3>
+<h3 align="center"> ✌About Me:</h3>
 <p align="center">
-  ⭐ In a committed relationship with my keyboard. <br> 
+  ❤️ In a committed relationship with my keyboard. <br> 
   🔭 Currently working on a MERN project. <br>  
   📫 You can reach me at 
   <a href="mailto:nayanrajkhanalz@gmail.com" target="_blank">
@@ -14,14 +14,6 @@
     alt="tumblr-gif"
     width="500"
     src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv"
-  />
-</p>
-
-<h2 align="center">📊 GitHub Stats:</h2>
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=notnayan&theme=tokyonight&hide_border=false"
-    alt="GitHub Streak"
   />
 </p>
 
