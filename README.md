@@ -2,13 +2,13 @@
 
 <h3 align="center"> ✌About Me:</h3>
 <p align="center">
-  ❤️ In a committed relationship with my keyboard. <br> 
-  🔭 Currently working on a MERN project. <br>  
+  In a committed relationship with my keyboard. <br>  
   📫 You can reach me at 
   <a href="mailto:nayanrajkhanalz@gmail.com" target="_blank">
     nayanrajkhanalz@gmail.com
   </a>
 </p>
+
 <p align="center">
   <img
     alt="tumblr-gif"
@@ -19,166 +19,34 @@
 
 <h2 align="center">💻 Tech Stack:</h2>
 <p align="center">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="dart"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
+<a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
+<a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
+<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
+<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
+<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
 </p>
 
 <h2 align="center">🌐 Socials:</h2>
 <p align="center">
-  <a href="https://twitter.com/sapupuas" target="_blank">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/11023/11023504.png"
-      alt="sapupuas"
-      height="50"
-      width="50"
-    />
-  </a>
-  <a href="https://github.com/notnayan" target="_blank">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/11023/11023043.png"
-      alt="notnayan"
-      height="50"
-      width="50"
-    />
-  </a>
-  <a href="https://fb.com/notnayan" target="_blank">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/11023/11023391.png"
-      alt="notnayan"
-      height="50"
-      width="50"
-    />
-  </a>
-  <a href="https://instagram.com/nayan_raj_khanal" target="_blank">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/11023/11023406.png"
-      alt="nayan_raj_khanal"
-      height="50"
-      width="50"
-    />
-  </a>
-  <a href="https://linkedin.com/in/notnayan" target="_blank">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/11023/11023054.png"
-      alt="notnayan"
-      height="50"
-      width="50"
-    />
-  </a>
+<a href="https://twitter.com/sapupuas"><img src="https://cdn-icons-png.flaticon.com/512/11023/11023504.png" width="50"/></a>
+<a href="https://github.com/notnayan"><img src="https://cdn-icons-png.flaticon.com/512/11023/11023043.png" width="50"/></a>
+<a href="https://fb.com/notnayan"><img src="https://cdn-icons-png.flaticon.com/512/11023/11023391.png" width="50"/></a>
+<a href="https://instagram.com/nayan_raj_khanal"><img src="https://cdn-icons-png.flaticon.com/512/11023/11023406.png" width="50"/></a>
+<a href="https://linkedin.com/in/notnayan"><img src="https://cdn-icons-png.flaticon.com/512/11023/11023054.png" width="50"/></a>
 </p>
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notnayan/notnayan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notnayan/notnayan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/notnayan/notnayan/output/github-snake.svg" />
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notnayan/notnayan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notnayan/notnayan/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/notnayan/notnayan/output/github-snake.svg" />
+  </picture>
 </div>
-
